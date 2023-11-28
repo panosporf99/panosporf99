@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @panosporf99
 - 👀 I’m interested in Cool coding projects 
-- 🌱 I’m currently learning  C++ 
-- 💞️ I’m looking to collaborate on Neural Networks/Deep Learning 
+- 🌱 I’m currently learning about Azure Databricks
+- 💞️ I’m looking to collaborate on Data Engineering Projects with Scala Spark
 - 📫 How to reach me ->> p.arapis@acg.edu
 
 <!---
